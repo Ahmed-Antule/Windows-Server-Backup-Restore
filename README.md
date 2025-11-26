@@ -12,7 +12,7 @@ Planned to restore the server's system using this backup (for recovery purposes)
 
 🎯 Purpose: To show how to protect the Windows Server system using backup and restore in case of failures or system issues.
 
-## Step
+## Steps
 #### 1.In this screenshot ,I have created some users,Later,I will delete them and then restore the system to bring them back.
 <img width="895" height="634" alt="1" src="https://github.com/user-attachments/assets/6909cccd-1766-4308-a0c3-fee17b57e119" />
 
